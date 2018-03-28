@@ -1,0 +1,20 @@
+[
+  { 
+    "name": "Ryu", 
+    "belt": "black" 
+  },
+
+  { 
+    "name": "Yoshi", 
+    "belt": "red" 
+  },
+
+  { 
+    "name": "Crystal", 
+    "belt": "purple" 
+  },
+  {
+    "name": "Shaun",
+    "belt": "black"
+  }
+]
